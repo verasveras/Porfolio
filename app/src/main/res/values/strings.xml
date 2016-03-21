@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Porfolio</string>
+    <string name="spotify">Spotify Streamer</string>
+    <string name="scores">Scores App</string>
+    <string name="library">Library App</string>
+    <string name="bigger">Build It Bigger</string>
+    <string name="reader">XYZ Reader</string>
+    <string name="tba">TBA</string>
+    <string name="title">Lisa Veras\' Future Apps</string>
 </resources>
